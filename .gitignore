@@ -1,0 +1,4 @@
+.env
+keras_tf_env/
+__pycache__/
+*.pyc
